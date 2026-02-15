@@ -1,0 +1,10 @@
+# MLforge Pipeline - Dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+onnx>=1.14.0
+onnxruntime>=1.15.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-multipart>=0.0.6
+Pillow>=10.0.0
+numpy>=1.24.0
